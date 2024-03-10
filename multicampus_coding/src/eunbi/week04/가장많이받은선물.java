@@ -47,7 +47,7 @@ class 가장많이받은선물 {
                         next[j]++;
                 }
             }
-        }
+        } 
         
         Arrays.sort(next);
         
